@@ -1,2 +1,2 @@
-# Lern-web2
+# Jathin's CV
 WEB 2 creation
